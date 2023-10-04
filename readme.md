@@ -12,4 +12,4 @@ The timing sequences for this project have been verified using ModelSim.
 ## How to run this Project
 Given that you have Intel Quartus Prime, you can instantiate this processor by letting top.v as the top-level module. Ensure that you have an appropriate .qsf file for your device.
 
-Use the sbasm.py script to output to a .mif file to program the soft-core processor with assembly instructions (.s files).
+Use the sbasm.py script to output to a .mif file and program the soft-core processor with assembly instructions (.s files).
